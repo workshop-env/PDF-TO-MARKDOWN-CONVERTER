@@ -1,0 +1,3 @@
+customtkinter
+pymupdf4llm
+pymupdf
