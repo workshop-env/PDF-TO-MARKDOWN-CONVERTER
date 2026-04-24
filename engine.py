@@ -3,7 +3,7 @@ from pathlib import Path
 
 def convert_pdf_to_md(pdf_path, output_folder):
     try:
-        md_text = pymupdf4llm.to_markdown(pdf_path, write_images=True, image_path="images")
+        md_text = pymupdf4llm.to_markdown(pdf_path)
         
         file_name = Path(pdf_path).stem + ".md"
         output_path = Path(output_folder) / file_name
