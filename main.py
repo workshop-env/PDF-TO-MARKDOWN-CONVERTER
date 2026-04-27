@@ -20,7 +20,7 @@ class PDFConverterApp(ctk.CTk):
         self.label = ctk.CTkLabel(self.card, text="PDF to Markdown", font=("Segoe UI", 24, "bold"))
         self.label.pack(pady=(30, 5))
 
-        self.sub_label = ctk.CTkLabel(self.card, text="Optimized for AI & LLM training", font=("Segoe UI", 12), text_color="gray")
+        self.sub_label = ctk.CTkLabel(self.card, text="Make your PDFs perfectly readable for AI and LLMs.", font=("Segoe UI", 12), text_color="gray")
         self.sub_label.pack(pady=(0, 20))
 
         self.select_btn = ctk.CTkButton(
