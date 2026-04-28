@@ -1,5 +1,3 @@
-# PDF-TO-MARKDOWN-CONVERTER
-
 # PDF → Markdown Pro 📄➡️⬇️
 
 **PDF → Markdown Pro** is a powerful desktop utility designed to convert PDF documents into clean, high-quality Markdown format quickly and securely.
