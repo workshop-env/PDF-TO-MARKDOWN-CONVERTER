@@ -13,6 +13,10 @@
 ### 💻 Compatibility
 * **Windows 11** (Fully Supported)
 * **Windows 10** (Fully Supported)
+
+### 📋 Technical Specifications
+* **Optimal Input:** Native "Digital" PDFs 
+* **Recommended Length:** Up to **200 pages** per file for optimal performance.
   
 ## 🚀 Getting Started
 1. **Download:** Grab the latest `.exe` from the [Releases](../../releases) page.
