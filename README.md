@@ -6,17 +6,9 @@
 
 ## ✨ Key Features
 * **High Accuracy:** Powered by the `pymupdf4llm` engine for precise text and layout extraction.
-* **Modern UI:** Built with `CustomTkinter` for a sleek, easy-to-use desktop experience.
-* **Privacy First:** 100% local processing.
-
-### 💻 Compatibility
-* **Windows 11** (Fully Supported)
-* **Windows 10** (Fully Supported)
-
-### ✨ What's New
-* **High-accuracy conversion:** PDF to Markdown extraction via the `pymupdf4llm` engine.
 * **Fully Portable:** Standalone executable—**no Python installation** required.
-* **Privacy-First:** 100% **local and offline** processing.
+* **Modern UI:** Built with `CustomTkinter` for a sleek, easy-to-use desktop experience.
+* **Privacy First:** 100% local and offline processing.
 
 ### 💻 Compatibility
 * **Windows 11** (Fully Supported)
