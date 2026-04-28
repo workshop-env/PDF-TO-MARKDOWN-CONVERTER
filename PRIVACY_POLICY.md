@@ -35,4 +35,4 @@ This application is built using the PyMuPDF4LLM engine. In accordance with the *
 
 ### 7. Contact
 **Email:** learn@traindocai.com  
-**Website:** [traindocai.com](https://traindocai.com/)
+**Website:** [Desktop Apps Inquiries](https://traindocai.com/desktop-apps-inquiries/)
