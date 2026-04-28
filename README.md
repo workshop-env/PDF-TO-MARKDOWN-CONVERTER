@@ -9,6 +9,10 @@
 * **Modern UI:** Built with `CustomTkinter` for a sleek, easy-to-use desktop experience.
 * **Privacy First:** 100% local processing.
 
+### 💻 Compatibility
+* **Windows 11** (Fully Supported)
+* **Windows 10** (Fully Supported)
+  
 ## 🚀 Getting Started
 1. **Download:** Grab the latest `.exe` from the [Releases](../../releases) page.
 2. **Run:** Open the application (Note: Check the Digital Signature for "Open Source Developer" to ensure authenticity).
