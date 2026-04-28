@@ -31,4 +31,4 @@ This application is distributed under the **GNU Affero General Public License v3
 
 ## 📬 Contact
 **Support:** learn@traindocai.com  
-**Website:** [traindocai.com](https://traindocai.com/desktop-apps-inquiries/)
+**Website:** [Desktop Apps Inquiries](https://traindocai.com/desktop-apps-inquiries/)
