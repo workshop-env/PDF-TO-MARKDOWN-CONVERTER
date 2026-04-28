@@ -28,9 +28,7 @@ This application is distributed under the **GNU Affero General Public License v3
 * We believe in transparency and the open-source community.
 
 ## 👤 Author
-**[Maria Rakanidou]**
-
-Developer & Maintainer
+Developer & Maintainer: Maria Rakanidou
 
 ---
 
