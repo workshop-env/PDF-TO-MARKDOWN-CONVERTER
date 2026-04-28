@@ -1,3 +1,65 @@
+Privacy Policy: PDF → Markdown Pro
+Last Updated: April 27, 2026
+
+1. Overview
+PDF → Markdown Pro (the "Application") is a desktop utility designed to convert PDF documents into Markdown format. Your privacy is our top priority. This policy explains why we do not collect, store, or share any of your personal data.
+
+2. No Data Collection
+We believe your files are your business.
+
+No Personal Information: The Application does not require an account, name, email address, or any other personal identifiers.
+
+No Tracking: We do not track what files you convert, how many you process, or the contents of those files.
+
+3. 100% Local & Offline Processing
+The Application is built to be fully local and offline:
+
+Local Processing: All conversions are performed entirely on your own computer's hardware using the pymupdf4llm engine.
+
+No Cloud Uploads: Your PDF files are never uploaded to a server, the cloud, or any third-party service.
+
+Offline Functionality: The Application does not require an internet connection to function.
+
+4. Security
+Because the Application operates strictly on your local machine with no internet communication capabilities, it is inherently protected from external data breaches. Your documents remain within your own secured environment at all times.
+
+5. Data Storage and Deletion
+Input/Output: The Application reads the PDF you select and saves the Markdown file to your local storage.
+
+No Persistence: Once the conversion is finished, the Application has no memory of the data processed.
+
+App Deletion: If you uninstall the Application, all application files are removed. Your generated Markdown files remain in your chosen save location until you manually delete them.
+
+6. Open Source & Transparency
+In accordance with the GNU AGPL v3.0, the full source code is available for public audit. Transparency is our guarantee that the app operates exactly as described.
+
+Source Code: GitHub Repository Link
+
+License: Distributed under GNU AGPL v3.0.
+
+8. Contact
+Questions? Contact us at learn@traindocai.com Website: traindocai.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Privacy Policy for PDF → Markdown Pro
 Last Updated: April 27, 2026
 
