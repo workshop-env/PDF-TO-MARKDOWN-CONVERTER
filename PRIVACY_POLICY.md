@@ -21,12 +21,17 @@ Because the Application operates strictly on your local machine and has no inter
 ### 5. Data Storage and Deletion
 * **Input/Output:** The Application reads the PDF you select and saves the Markdown file to your local storage.
 * **No Persistence:** We do not store copies of your files. Once the conversion is finished, the Application has no memory of the data processed.
-* **App Deletion:** If you choose to delete or uninstall the Application via Windows Settings, all application files are removed from your system. 
+* **App Deletion:** If you choose to delete or uninstall the Application via Windows Settings, all application files are removed from your system.  Any Markdown files you have previously generated and saved to your device will remain in your chosen save location (e.g., your Downloads folder) until you manually delete them.
 
-### 6. Open Source & Licensing
-In accordance with the **GNU Affero General Public License v3.0 (AGPL v3.0)**, the full source code for this application is available to the public.
-* **Source Code:** [Insert GitHub Link Here]
-* **License:** GNU AGPL v3.0
+### 6. Third-Party Libraries
+This app uses the PyMuPDF and pymupdf4llm libraries for document parsing and CustomTkinter for the user interface. These libraries are bundled within the app and operate under the same local-only, no-data-collection principles described above.
+
+
+
+### 7. Open Source & Licensing
+This application is built using the PyMuPDF4LLM engine. In accordance with the **GNU Affero General Public License v3.0 (AGPL v3.0)**, the full source code for this application is available to the public.
+* **License:** This application is distributed under the terms of the GNU AGPL v3.0. There is no warranty for this software to the extent permitted by applicable law.
+
 
 ---
 
