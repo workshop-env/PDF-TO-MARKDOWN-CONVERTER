@@ -21,7 +21,7 @@
 ## 🚀 Getting Started
 1. **Download:** Grab the latest `.exe` from the [Releases](../../releases) page.
 2. **Run:** Open the application (Note: Check the Digital Signature for "Open Source Developer" to ensure authenticity).
-3. **Convert:** Select your PDF and click convert.
+3. **Convert:** Choose your PDF and convert.
 
 ## 🔒 Privacy & Security
 PDF → Markdown Pro (the "Application") is a desktop utility designed to convert PDF documents into Markdown format. Your privacy is our top priority. This Privacy Policy explains that we do not collect, store, or share any of your personal data.
