@@ -12,6 +12,15 @@
 ### 💻 Compatibility
 * **Windows 11** (Fully Supported)
 * **Windows 10** (Fully Supported)
+
+### ✨ What's New
+* **High-accuracy conversion:** PDF to Markdown extraction via the `pymupdf4llm` engine.
+* **Fully Portable:** Standalone executable—**no Python installation** required.
+* **Privacy-First:** 100% **local and offline** processing.
+
+### 💻 Compatibility
+* **Windows 11** (Fully Supported)
+* **Windows 10** (Fully Supported)
   
 ## 🚀 Getting Started
 1. **Download:** Grab the latest `.exe` from the [Releases](../../releases) page.
