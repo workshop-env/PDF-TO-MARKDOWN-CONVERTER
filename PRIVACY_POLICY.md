@@ -4,29 +4,32 @@
 ---
 
 ### 1. Overview
-**PDF → Markdown Pro** is a desktop utility that converts PDF documents to Markdown. We do not collect, store, or share any of your personal data.
+PDF → Markdown Pro (the "Application") is a desktop utility designed to convert PDF documents into Markdown format. Your privacy is our top priority. This Privacy Policy explains that we do not collect, store, or share any of your personal data.
 
 ### 2. No Data Collection
-* **No Accounts:** No name or email required.
-* **No Tracking:** We don't track what you convert.
-* **No Logging:** We don't see your file contents.
+* **No Personal Information:** The Application does not require an account, name, email address, or any other personal identifiers.
+* **No File Tracking:** We do not track what files you convert, how many files you convert, or the contents of those files.
 
-### 3. 100% Local & Offline
-* **Local Hardware:** Conversions happen on your CPU/RAM only.
-* **No Cloud:** Your files never leave your computer.
-* **Zero Internet:** The app does not need or use an internet connection.
+### 3. 100% Local & Offline Processing
+* **Local Processing:** All conversions are performed entirely on your own computer's hardware using the `pymupdf4llm` engine.
+* **No Cloud Uploads:** Your PDF files are never uploaded to a server, the cloud, or any third-party service.
+* **Offline Functionality:** The Application does not require an internet connection to function and does not communicate with any external servers while in use.
 
-### 4. Data Storage
-* **Temporary:** Once the conversion is done, the app "forgets" the data.
-* **Your Control:** You decide where files are saved and when they are deleted.
+### 4. Security
+Because the Application operates strictly on your local machine and has no internet communication capabilities, it is inherently protected from external data breaches. Your documents remain within your own secured environment at all times.
 
-### 5. Open Source (AGPL v3.0)
-This app is open source for your audit and trust.
-* **Source Code:** [GitHub Repository Link]
+### 5. Data Storage and Deletion
+* **Input/Output:** The Application reads the PDF you select and saves the Markdown file to your local storage.
+* **No Persistence:** We do not store copies of your files. Once the conversion is finished, the Application has no memory of the data processed.
+* **App Deletion:** If you choose to delete or uninstall the Application via Windows Settings, all application files are removed from your system. 
+
+### 6. Open Source & Licensing
+In accordance with the **GNU Affero General Public License v3.0 (AGPL v3.0)**, the full source code for this application is available to the public.
+* **Source Code:** [Insert GitHub Link Here]
 * **License:** GNU AGPL v3.0
 
 ---
 
-### 6. Contact
+### 7. Contact
 **Email:** learn@traindocai.com  
 **Website:** [traindocai.com](https://traindocai.com/)
