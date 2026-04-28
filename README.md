@@ -5,7 +5,7 @@
 ---
 
 ## ✨ Key Features
-* **High Accuracy:** Powered by the `pymupdf4llm` engine for fast, precise text and layout extraction.
+* **High Accuracy:** Powered by the `pymupdf4llm` engine for precise text and layout extraction.
 * **Modern UI:** Built with `CustomTkinter` for a sleek, easy-to-use desktop experience.
 * **Privacy First:** 100% local processing.
 
